@@ -1,0 +1,7 @@
+C:\Users\wxc\source\repos\aShoeCloset\aShoeCloset\bin\Debug\aShoeCloset.exe.config
+C:\Users\wxc\source\repos\aShoeCloset\aShoeCloset\bin\Debug\aShoeCloset.exe
+C:\Users\wxc\source\repos\aShoeCloset\aShoeCloset\bin\Debug\aShoeCloset.pdb
+C:\Users\wxc\source\repos\aShoeCloset\aShoeCloset\obj\Debug\aShoeCloset.csprojAssemblyReference.cache
+C:\Users\wxc\source\repos\aShoeCloset\aShoeCloset\obj\Debug\aShoeCloset.csproj.CoreCompileInputs.cache
+C:\Users\wxc\source\repos\aShoeCloset\aShoeCloset\obj\Debug\aShoeCloset.exe
+C:\Users\wxc\source\repos\aShoeCloset\aShoeCloset\obj\Debug\aShoeCloset.pdb
